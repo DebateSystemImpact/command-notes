@@ -1,0 +1,15 @@
+# VS Code
+.vscode/
+
+# JetBrains IDEs (in case you ever use them)
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+
+# Logs
+*.log
